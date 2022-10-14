@@ -82,15 +82,15 @@
 
 // EX10------------------------------------------------------------
 
-alert("Atenção,insira seus dados abaixo!")
+// alert("Atenção,insira seus dados abaixo!")
 
-let nome = prompt("Insira seu nome aqui!")
-let sobrenome = prompt("Insira seu sobrenome aqui!")
-let idade = prompt("Insira sua iadade aqui!")
-let setor = prompt("Insira seu setor aqui!")
+// let nome = prompt("Insira seu nome aqui!")
+// let sobrenome = prompt("Insira seu sobrenome aqui!")
+// let idade = prompt("Insira sua iadade aqui!")
+// let setor = prompt("Insira seu setor aqui!")
 
-let nomeCadast = nome.toUpperCase()
-let sobrenomeCadast = sobrenome.toUpperCase()
+// let nomeCadast = nome.toUpperCase()
+// let sobrenomeCadast = sobrenome.toUpperCase()
 
 
-alert(`Nome: ${nomeCadast} ${sobrenomeCadast} Idade: ${idade} Setor: ${setor}`)
+// alert(`Nome: ${nomeCadast} ${sobrenomeCadast} Idade: ${idade} Setor: ${setor}`)
